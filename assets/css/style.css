@@ -85,7 +85,9 @@ section {
     margin-left: 20px;
   }
 
-.benefits {
+/*ASIDE*/
+/* Replaced class benefit with aside tag */
+aside {
   margin-right: 20px;
   padding: 20px;
   clear: both;
